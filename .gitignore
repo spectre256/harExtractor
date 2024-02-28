@@ -1,0 +1,3 @@
+*.har
+page_*/
+__pycache__/
